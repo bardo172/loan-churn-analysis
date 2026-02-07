@@ -1,5 +1,6 @@
 # Raw datasets (never committed)
-data/raw/
+data/raw/*
+!data/raw/.gitkeep // Keep the raw data directory, but ignore its contents
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
