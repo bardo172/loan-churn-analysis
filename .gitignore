@@ -1,4 +1,5 @@
 # Raw datasets (never committed)
+data/processed/
 data/raw/*
 # Keep the raw data directory, but ignore its contents
 !data/raw/.gitkeep
