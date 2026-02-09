@@ -4,6 +4,14 @@ data/raw/*
 # Keep the raw data directory, but ignore its contents
 !data/raw/.gitkeep
 
+# Office temporary files
+~$*
+
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
